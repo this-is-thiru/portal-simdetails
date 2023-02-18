@@ -1,0 +1,14 @@
+#server:
+#  port: 9100
+#
+#spring:
+#  application:
+#    name: SimDetailsMS
+#  cloud:
+#    consul:
+#      config:
+#        enabled: true
+#        prefix: config
+#        defaultContext: application
+#        profileSeparator: '::'
+#        format: YAML
